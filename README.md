@@ -1,7 +1,7 @@
-            Selenium Code - Java (Cucumber) with chrome driver setup - simple test on sample application)
+             Selenium Code - Java (Cucumber) with chrome driver setup - simple test on sample application)
 
 
-Description. : 
+Description: 
 
 This is a demo testcase on java tech with cucumber and selenium test. There are couple testcases ( 2 automation scripts ): which validates the business scenarios: 
 Scenario 1: Validate user is able to view after log in 
