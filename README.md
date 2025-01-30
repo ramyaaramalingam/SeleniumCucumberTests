@@ -25,36 +25,14 @@ Features:
 
 Selenium Tests
 
-Test Requirements:
+Requirements:
 
-Test Scenario 1:
+IntelliJ Idea
+
+JDK 23 
 
 Open up google chrome browser (This project has google chrome driver version 131- which is installed and setup as path)
 
 Launch the application:  https://ramyaaramalingam.github.io/mybakery-web-pages/
 
-Click on the hamburger menu
 
-Click on 'Sign In Portal'
-
-Enter the username
-
-Enter the password
-
-Click on Login button
-
-Verify if the Menu Page is matching with expected. The application can be run locally.
-
-Test Scenario 2:
-
-Open up google chrome browser (This project has google chrome driver version 115- which is installed and setup as path)
-
-Launch the application: https://ramyaaramalingam.github.io/mybakery-web-pages/
-
-Click on the hamburger menu
-
-Click on 'Sign In Portal'
-
-Click on 'New User? Register here' button
-
-Verify if the user lands on the Create a New Account Page. The application can be run locally.
