@@ -31,7 +31,7 @@ IntelliJ Idea
 
 JDK 23 
 
-Open up google chrome browser (This project has google chrome driver version 131- which is installed and setup as path)
+Google chrome browser (This project has google chrome driver version 131- which is installed and setup as path)
 
 Launch the application:  https://ramyaaramalingam.github.io/mybakery-web-pages/
 
